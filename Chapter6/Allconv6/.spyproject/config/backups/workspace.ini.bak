@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['Modules/Allconv6.py', 'Train/config.py', 'Train/main.py', 'DataSets/ghim10k_dataset.py', '../../Chapter4/Allconv/Modules/Allconv6.py', 'Train/GHIM数据集宽度测试/allconv6_baseline_16_16s/baseline_64_64_128_128_256_step_123/config.py', 'Train/GHIM数据集宽度测试/allconv6_baseline_32_32s/allconv6_baseline_64_64_64_64_128_step_123/config.py']
+
